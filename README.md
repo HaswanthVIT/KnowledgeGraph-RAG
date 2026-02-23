@@ -241,7 +241,6 @@ This project provides a ready-to-use `docker-compose.yml` for local development 
 
 Open-source under the [MIT License](LICENSE).
 
-## 👤 Authors
+## 👤 Author
 
-- [Dhruv Kalpesh Jadav](https://github.com/DhruvJ2k4)
 - [Haswanth S](https://github.com/HaswanthVIT)
