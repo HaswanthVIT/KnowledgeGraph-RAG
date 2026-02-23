@@ -243,4 +243,5 @@ Open-source under the [MIT License](LICENSE).
 
 ## 👤 Authors
 
+- [Dhruv Kalpesh Jadav](https://github.com/DhruvJ2k4)
 - [Haswanth S](https://github.com/HaswanthVIT)
